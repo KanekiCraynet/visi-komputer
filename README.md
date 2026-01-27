@@ -1695,4 +1695,4 @@ Model ini dapat serve sebagai clinical decision support system, meningkatkan eff
 
 ---
 
-**Laporan ini disusun sebagai memenuhi persyaratan UAS Mata Kuliah Visi Komputer, Universitas Muhammadiyah Kendal Batang, 2022.**
+**Laporan ini disusun sebagai memenuhi persyaratan UAS Mata Kuliah Visi Komputer, Universitas Muhammadiyah Kendal Batang, 2026.**
